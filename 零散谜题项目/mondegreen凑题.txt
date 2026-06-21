@@ -1,0 +1,33 @@
+MONDEGREEN
+
+M 谁取的名字那么怪？生意不要了？ 3
+O 这个女人我蛮佩服的，真的很勇敢。 2
+N 览：乌拉尔山脉让俄罗斯拥有了什么？ 3
+D 来自院长的安全提醒！千万不要这样做！ 1
+E 大家吃完饭喜欢立刻坐下，还是先走一走？ 4
+G 楼下新开的咖啡店真火爆！已经排起长龙了。 4
+R 推荐几首音乐，风格跟热门的歌曲很不一样哦。 4
+E 今天在智利吃了甜玉米派。玉米可真是个好东西。 5
+E 老房子后色彩斑斓的鲜花。这座古镇打点得真好看。 5
+N 我家孩子沉迷手机了，把他手机拿了他肯定要跟你急。 5
+
+
+	排起 长-龙 。 long
+	…… 喜欢-立刻 ……还是等一会儿再…… like
+	…… 房子-后色 彩斑斓的…… house
+	…… 名字-那么 奇怪 name
+	把…… 拿了-他肯 定…… taken
+	这个 女人-我蛮 佩服的 woman
+…… 沿着-阿龙 …… along
+掀起一场 阅读-热。阿丁 …… reading
+	来自 院长-的安 全提醒 dean
+	在 智利-吃了 库兰多 chile
+这场 拳击-博兴 县县队获得了胜利 boxing
+	音乐 风格-跟热 门歌曲很不一样 genre
+热心 市民-此题怎 么做 citizen
+…… 经理-吗？那个 …… manage
+…… 护林员-让儿 子…… ranger
+明天的日程-啊跟大 家都说一下 agenda
+	乌拉尔 山脉-让俄 罗斯…… range
+
+(a|ai|an|ang|ao|ba|bai|ban|bang|bao|bei|ben|beng|bi|bian|biao|bie|bin|bing|bo|bu|ca|cai|can|cang|cao|ce|cen|ceng|cha|chai|chan|chang|chao|che|chen|cheng|chi|chong|chou|chu|chua|chuai|chuan|chuang|chui|chun|chuo|ci|cong|cou|cu|cuan|cui|cun|cuo|da|dai|dan|dang|dao|de|dei|den|deng|di|dia|dian|diao|die|ding|diu|dong|dou|du|duan|dui|dun|duo|e|ei|en|eng|er|fa|fan|fang|fei|fen|feng|fiao|fo|fou|fu|ga|gai|gan|gang|gao|ge|gei|gen|geng|gong|gou|gu|gua|guai|guan|guang|gui|gun|guo|ha|hai|han|hang|hao|he|hei|hen|heng|hong|hou|hu|hua|huai|huan|huang|hui|hun|huo|ji|jia|jian|jiang|jiao|jie|jin|jing|jiong|jiu|ju|juan|jue|jun|ka|kai|kan|kang|kao|ke|kei|ken|keng|kong|kou|ku|kua|kuai|kuan|kuang|kui|kun|kuo|la|lai|lan|lang|lao|le|lei|leng|li|lia|lian|liang|liao|lie|lin|ling|liu|long|lou|lu|luan|lun|luo|ma|mai|man|mang|mao|me|mei|men|meng|mi|mian|miao|mie|min|ming|miu|mo|mou|mu|na|nai|nan|nang|nao|ne|nei|nen|neng|ni|nian|niang|niao|nie|nin|ning|niu|nong|nou|nu|nuan|nuo|o|ou|pa|pai|pan|pang|pao|pei|pen|peng|pi|pian|piao|pie|pin|ping|po|pou|pu|qi|qia|qian|qiang|qiao|qie|qin|qing|qiong|qiu|qu|quan|que|qun|ran|rang|rao|re|ren|reng|ri|rong|rou|ru|rua|ruan|rui|run|ruo|sa|sai|san|sang|sao|se|sei|sen|seng|sha|shai|shan|shang|shao|she|shei|shen|sheng|shi|shou|shu|shua|shuai|shuan|shuang|shui|shun|shuo|si|song|sou|su|suan|sui|sun|suo|ta|tai|tan|tang|tao|te|tei|teng|ti|tian|tiao|tie|ting|tong|tou|tu|tuan|tui|tun|tuo|wa|wai|wan|wang|wei|wen|weng|wo|wu|xi|xia|xian|xiang|xiao|xie|xin|xing|xiong|xiu|xu|xuan|xue|xun|ya|yan|yang|yao|ye|yi|yin|ying|yo|yong|you|yu|yuan|yue|yun|za|zai|zan|zang|zao|ze|zei|zen|zeng|zha|zhai|zhan|zhang|zhao|zhe|zhei|zhen|zheng|zhi|zhong|zhou|zhu|zhua|zhuai|zhuan|zhuang|zhui|zhun|zhuo|zi|zong|zou|zu|zuan|zui|zun|zuo)*
