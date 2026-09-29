@@ -1,0 +1,71 @@
+s    kuwait
+uganda    i
+b    italic
+syntax    k
+e    infill
+typhon    e
+
+
+Wait behind unopened PKU, with risk of dehydration (6)
+Answer: KUWAIT
+
+Definition: with risk of dehydration
+unopened (PKU) → KU
+wait behind KU → KUWAIT
+
+
+Land amongst drug and alcohol (6)
+Answer: UGANDA
+
+Definition: land
+amongst (drUG AND Alcohol) → UGANDA
+
+
+Reclining in hospital ICU (6)
+Answer: ITALIC
+
+Definition: Reclining
+in (hospITAL ICu) → ITALIC
+
+
+Tip: sometimes you need the ax, in so many words. (6)
+Answer: SYNTAX
+
+Definition: in so many words
+tip (sometimes you need the) → SYNT
+SYNT + ax → SYNTAX
+
+
+Infinite disease making the city denser (6)
+Answer: INFILL
+
+Definition: making the city denser
+Infinite 替换→ INF
+disease 替换→ ILL
+INF + ILL → INFILL
+
+
+Deity lost one ring from strong wind (6)
+Answer: TYPHON
+
+Definition: deity
+ring 替换→ O
+strong wind 替换→ TYPHOON
+lost one O from (TYPHOON) → TYPHON
+
+
+Math concept somehow overturns Gates' business (6)
+Answer: SUBSET
+
+Definition: math concept
+overturns (Gates' business) → ssneiSUB SETag
+somehow (ssneiSUB SETag) → SUBSET
+
+
+Check before priority couple leaves can make one feel uneasy (6)
+Answer: TICKLE
+
+Definition: can make one feel uneasy
+Check 替换→ TICK
+priority couple (leaves) → LE
+TICK before LE → TICKLE
